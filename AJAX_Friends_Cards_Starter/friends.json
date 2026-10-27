@@ -1,2 +1,26 @@
 [
+    {
+        "name" : "Bill Nye",
+        "relationship" : "Child",
+        "detail" : "Made of flour",
+        "hobbies" : ["baking", "reading", "gardening"]
+    },
+    {
+        "name" : "Cosette",
+        "relationship" : "Friend",
+        "detail" : "Enjoys playing guitar.",
+        "hobbies" : ["guitar", "rock climbing", "tufting"]
+    },
+    {
+        "name" : "Ethan",
+        "relationship" : "Friend",
+        "detail" : "Needs to be more social.",
+        "hobbies" : ["space", "gaming", "Legos"]
+    },
+    {
+        "name" : "AJ",
+        "relationship" : "human I know",
+        "detail" : "Needs help with life.",
+        "hobbies" : ["coding", "art", "music"]
+    }
 ]
